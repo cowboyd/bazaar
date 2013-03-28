@@ -1,4 +1,5 @@
 require "bazaar/version"
+require "active_support/core_ext/string/inflections"
 
 module Bazaar
   def self.item
